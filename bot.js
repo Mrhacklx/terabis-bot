@@ -38,7 +38,7 @@ async function main() {
   // Handle /start command
   bot.start(async (ctx) => {
     ctx.reply(
-      `Hi ${ctx.message.from.first_name},\n\nWelcome to the Terabis \n\nHow to connect /help`
+      `Hi ${ctx.message.from.first_name},\n\nWelcome to the Terabis 2 \n\nHow to connect /help`
     );
   });
 
