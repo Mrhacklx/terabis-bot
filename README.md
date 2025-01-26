@@ -1,4 +1,4 @@
-# Terabis Telegram Bot
+# Telegram Bot
 
 This is a Telegram bot for shortening links using the Bisgram API.
 
